@@ -1,0 +1,9 @@
+3/22/25, 2:49 PM
+https://velog.io/@min11203/Life-Timer-수명-타이머-개발-1-SwiftUI
+남은 수명을 저장해서 타이머를 계속 돌리기 위해, Local Storage를 사용하기로 했다.
+이전에, 동아리에서 Realm(?) 을 사용해보긴 했는데,
+이번에는 내장 기능인 CoreData를 사용해보고 싶었다.
+
+프로젝트 생성
+
+이렇게 Storage 부분에 Core 
