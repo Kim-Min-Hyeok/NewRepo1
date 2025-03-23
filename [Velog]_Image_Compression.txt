@@ -1,0 +1,3 @@
+3/23/25, 10:08 PM
+https://velog.io/@min11203/Image-Compression
+Minhyeok의 Notion - 노션에서 옮기는 중이미지 압축시 information loss 발생품질 측정MSE (Mean Squared Error)압축된 이미지 - 원본 이미지간의 차이 측정    PSNR (Peak Signal-to-Noise Ratio)MSE기
